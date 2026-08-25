@@ -53,7 +53,8 @@ endoguard/
 │   ├── index.html
 │   └── package.json
 ├── docs/demo/
-│   └── README.md
+│   └──endoguard-demo.mp4
+|   └──Demo-Sceeenshots
 ├── .gitignore
 └── README.md
 ```
