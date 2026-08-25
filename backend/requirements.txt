@@ -1,0 +1,15 @@
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/peft.git
+accelerate>=1.14.0
+bitsandbytes>=0.50.0
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pyngrok==7.1.6
+Pillow>=10.0.0
+python-multipart>=0.0.9
+nest-asyncio>=1.6.0
+sentencepiece>=0.2.0
+psutil
+scikit-learn
+open_clip_torch
+python-dotenv>=1.0.0

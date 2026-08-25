@@ -1,0 +1,46 @@
+# Credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+
+# Frontend
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Models, datasets, and generated artifacts
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+checkpoints/
+models/
+datasets/
+data/
+outputs/
+
+# Notebooks and OS/editor files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Demo placeholder (remove this rule after adding your final video intentionally)
+docs/demo/*.tmp
