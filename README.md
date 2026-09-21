@@ -296,6 +296,13 @@ If this repository supports a paper or project report, replace the placeholder b
 }
 ```
 
-## License
+## Copyright and usage
 
-No license has been selected yet. Add an appropriate `LICENSE` file before inviting external reuse or contributions. Dataset, MedGemma, BiomedCLIP, and checkpoint use remains subject to their respective licenses and access terms.
+Copyright (c) 2026 Iman Ahamad. The original materials in this
+repository are proprietary. No copying, modification, redistribution,
+publication, sale, deployment, or derivative use is permitted without
+prior written permission.
+
+See [COPYRIGHT.md](./COPYRIGHT.md) for the complete notice.
+Third-party dependencies and model materials remain subject to their
+own licenses.
